@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create with html and css file for Modern-Website-Templates. I use here html and css tags. 
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/Modern-Website-Templates.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/Modern-Animation.git` <br/>
 > **STEP-2:**  enter the `Modern-Animation` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`index.html` files in the main folder <br/>
@@ -30,5 +30,5 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
-![There was a screenshot here](./screen/screen-1.PNG)
+![There was a screenshot here](./screen/screen.PNG)
 
