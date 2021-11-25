@@ -6,7 +6,7 @@
 
 # Modern Animation
 
-Hello, welcome to this lesson. Today I create with html and css file for Modern-Website-Templates. I use here html and css tags. 
+Hello, welcome to this lesson. Today I create with html and css file for Modern-Animation. I use here html and css tags. 
 ## ## RULES OF USE
 
 > **STEP-1:** `https://github.com/cavidsuleyman/Modern-Animation.git` <br/>
