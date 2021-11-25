@@ -13,7 +13,7 @@ Hello, welcome to this lesson. Today I create with html and css file for Modern-
 > **STEP-2:**  enter the `Modern-Animation` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`index.html` files in the main folder <br/>
-> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Modern-Website-Templates/archive/refs/heads/master.zip) click <br/>
+> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Modern-Animation/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
